@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\_DBtoMedia_2.2 Source\bin\Debug\_DBtoMedia_2.3.exe.config
+C:\Users\Admin\Desktop\_DBtoMedia_2.2 Source\bin\Debug\_DBtoMedia_2.3.exe
+C:\Users\Admin\Desktop\_DBtoMedia_2.2 Source\bin\Debug\_DBtoMedia_2.3.pdb
+C:\Users\Admin\Desktop\_DBtoMedia_2.2 Source\obj\Debug\_DBtoMedia_2.3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\_DBtoMedia_2.2 Source\obj\Debug\_DBtoMedia_2.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\_DBtoMedia_2.2 Source\obj\Debug\_DBtoMedia_2.3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\_DBtoMedia_2.2 Source\obj\Debug\_DBtoMedia_2.3.exe
+C:\Users\Admin\Desktop\_DBtoMedia_2.2 Source\obj\Debug\_DBtoMedia_2.3.pdb
